@@ -1,8 +1,8 @@
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" style="padding-right: 20px;">
-      <h1>Hi! I'm Sofía 👋</h1>
-      <p>
+      <h1 style="font-size: 42px; margin-bottom: 8px;">>Hi! I'm Sofía 👋</h1>
+      <p style="font-size: 20px; margin-top: 0;">
         Full Stack Developer<br/>
         <strong>Backend Oriented</strong>
       </p>
