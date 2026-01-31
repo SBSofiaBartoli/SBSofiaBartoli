@@ -10,7 +10,7 @@
       </p>
     </td>
     <td align="center" style="border: none;">
-      <img src="./assets/my-image.png" width="200"/>
+      <img src="./assets/my-image.png" width="180"/>
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@ Also contributed to frontend logic, developing the booking calendar and reservat
 ⭐ **E-commerce REST API**  
 Authentication, roles, products, orders and payments-ready structure.
 
-<img src="./assets/star-shine.gif" height=300px width=300px align="right"/><img src="./assets/star-shine.gif" height=100px width=100px align="right"/>
+<img src="./assets/star-shine.gif" height=200px width=200px align="right"/><img src="./assets/star-shine.gif" height=100px width=100px align="right"/>
 <br/>
 <br/>
 
