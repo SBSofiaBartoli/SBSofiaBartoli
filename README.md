@@ -21,15 +21,15 @@ I’m a **Junior Full Stack Developer oriented to Backend**, passionate about bu
 
 My main focus is on **RESTful APIs**, authentication, role-based access, payments integration and database design.
 
-## I enjoy working on real-world problems, applying good practices and understanding _why_ things work, not just _how_.
+# I enjoy working on real-world problems, applying good practices and understanding _why_ things work, not just _how_.
 
-🧩 Sobre mí
+### 🧩 Sobre mí
 
 Soy Desarrolladora Full Stack Junior con orientación en Backend, apasionada por la creación de APIs sólidas, lógica de negocio y arquitecturas escalables.
 
 Mi foco principal está en el desarrollo de APIs REST, autenticación y autorización, manejo de roles, integración de pagos y diseño de bases de datos.
 
-## Disfruto trabajar en problemas reales, aplicar buenas prácticas de desarrollo y comprender el por qué de las soluciones, no solo el cómo.
+# Disfruto trabajar en problemas reales, aplicar buenas prácticas de desarrollo y comprender el por qué de las soluciones, no solo el cómo.
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -55,6 +55,7 @@ Mi foco principal está en el desarrollo de APIs REST, autenticación y autoriza
 
 ⭐ **Providence Fitness API**  
 Backend API for gym management: bookings, monthly payments per activity, roles, notifications and admin dashboard.  
+Also contributed to frontend logic, developing the booking calendar and reservation flow.
 **Stack:** NestJS · PostgreSQL · MercadoPago · JWT · Nodemailer · Cron jobs
 
 ⭐ **E-commerce REST API**  
@@ -70,7 +71,3 @@ If you'd like to collaborate, talk about backend or check my work:
 
 📧 **Email:** sofiadbartoli@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/sofiabartoli](https://www.linkedin.com/in/sof%C3%ADa-desir%C3%A9e-bartoli-6aa23a15a)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200"/>
-</p>
