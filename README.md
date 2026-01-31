@@ -27,16 +27,20 @@ I enjoy working on real-world problems, applying good practices and understandin
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="56"/>
+  <img src="./assets/nodejs.png" width="56"/>
+  <img src="./assets/nestjs.png" width="56"/>
+  <img src="./assets/typescript.png" width="56"/>
+  <img src="./assets/javascript.png" width="56"/>
+  <img src="./assets/postgresql.png" width="56"/>
+  <img src="./assets/swagger.png" width="56"/>
+  <img src="./assets/react.png" width="56"/>
+  <img src="./assets/next.jpg" width="56"/>
+  <img src="./assets/icons8-viento-de-cola-480.png" width="56"/>
+  <img src="./assets/git.png" width="56"/>
+  <img src="./assets/github.png" width="56"/>
+  <img src="./assets/postman.png" width="56"/>
+  <img src="./assets/css.png" width="56"/>
+  <img src="./assets/html.png" width="56"/>
 </p>
 
 ### 🚀 Featured Projects
