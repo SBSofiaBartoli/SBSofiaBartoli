@@ -60,10 +60,10 @@ Backend API for gym management: bookings, monthly payments per activity, roles, 
 ⭐ **E-commerce REST API**  
 Authentication, roles, products, orders and payments-ready structure.
 
-<p align="center">
-  <img src="./assets/star-shine.gif" width="70" />
-  <img src="./assets/star-shine.gif" width="110" />
-  <img src="./assets/star-shine.gif" width="70" />
+<p align="center" style="margin-top: -40px; margin-bottom: -20px;">
+  <img src="./assets/star-shine.gif" width="60"/>
+  <img src="./assets/star-shine.gif" width="110"/>
+  <img src="./assets/star-shine.gif" width="60"/>
 </p>
 
 ### 💌 Let's connect
