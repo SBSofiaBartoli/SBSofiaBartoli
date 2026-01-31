@@ -21,7 +21,7 @@ I’m a **Junior Full Stack Developer oriented to Backend**, passionate about bu
 
 My main focus is on **RESTful APIs**, authentication, role-based access, payments integration and database design.
 
-# I enjoy working on real-world problems, applying good practices and understanding _why_ things work, not just _how_.
+I enjoy working on real-world problems, applying good practices and understanding _why_ things work, not just _how_.
 
 ### 🧩 Sobre mí
 
@@ -29,7 +29,7 @@ Soy Desarrolladora Full Stack Junior con orientación en Backend, apasionada por
 
 Mi foco principal está en el desarrollo de APIs REST, autenticación y autorización, manejo de roles, integración de pagos y diseño de bases de datos.
 
-# Disfruto trabajar en problemas reales, aplicar buenas prácticas de desarrollo y comprender el por qué de las soluciones, no solo el cómo.
+Disfruto trabajar en problemas reales, aplicar buenas prácticas de desarrollo y comprender el _por qué_ de las soluciones, no solo el _cómo_.
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
