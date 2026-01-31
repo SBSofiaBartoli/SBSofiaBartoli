@@ -1,13 +1,6 @@
-<h1 align="center">Hi! I'm Sofía 👋</h1>
-
-<p align="center">
-  Full Stack Developer with a strong focus on Backend
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-</p>
-
+👋 Hi, I'm Sofía
+Junior Full Stack Developer | Backend Focus
+[ gif / ilustración ]
 ---
 
 ### 🧩 About me
@@ -65,8 +58,8 @@ Authentication, roles, products, orders and payments-ready structure.
 
 If you'd like to collaborate, talk about backend or check my work:
 
-📧 **Email:** sofia.bartoli.dev@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/sofiabartoli](https://www.linkedin.com/in/sofiabartoli)
+📧 **Email:** sofiadbartoli@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/sofiabartoli](https://www.linkedin.com/in/sof%C3%ADa-desir%C3%A9e-bartoli-6aa23a15a)
 
 <p align="center">
   <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200"/>
