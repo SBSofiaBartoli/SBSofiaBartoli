@@ -1,6 +1,6 @@
 👋 Hi, I'm Sofía
 Junior Full Stack Developer | Backend Focus
-[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRkNjNlZDVkY2Y0MTk1Nzk3ZDY0MTE0NzJjMTRkYzM1NTg5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlSNOxJB956qwfK/giphy.gif]
+[(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRkNjNlZDVkY2Y0MTk1Nzk3ZDY0MTE0NzJjMTRkYzM1NTg5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlSNOxJB956qwfK/giphy.gif)]
 ---
 
 ### 🧩 About me
