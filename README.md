@@ -12,28 +12,29 @@ My main focus is on **RESTful APIs**, authentication, role-based access, payment
 I enjoy working on real-world problems, applying good practices and understanding *why* things work, not just *how*.
 
 ---
-
 ### 🛠️ Tech Stack
 
 #### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs&logoColor=red)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
-![JWT](https://img.shields.io/badge/-JWT-000)
-![MercadoPago](https://img.shields.io/badge/-MercadoPago-000)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
+</p>
 
 #### Frontend
-![React](https://img.shields.io/badge/-React-000?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?logo=tailwindcss)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48"/>
+</p>
 
-#### Tools & Workflow
-![Git](https://img.shields.io/badge/-Git-000?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=postman)
-![Scrum](https://img.shields.io/badge/-Scrum-000)
-
+#### Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/>
+</p>
 ---
 
 ### 🚀 Featured Projects
