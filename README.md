@@ -31,8 +31,6 @@ Mi foco principal está en el desarrollo de APIs REST, autenticación y autoriza
 
 ## Disfruto trabajar en problemas reales, aplicar buenas prácticas de desarrollo y comprender el por qué de las soluciones, no solo el cómo.
 
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
@@ -61,8 +59,6 @@ Backend API for gym management: bookings, monthly payments per activity, roles, 
 
 ⭐ **E-commerce REST API**  
 Authentication, roles, products, orders and payments-ready structure.
-
----
 
 <p align="center">
   <img src="./assets/star-shine.gif" width="70" />
