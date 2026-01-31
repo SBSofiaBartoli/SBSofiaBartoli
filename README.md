@@ -3,8 +3,7 @@
   Full Stack Developer · Backend Oriented
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl3bHR3bW9yb29lZzY0a2Z2NXJkZ3p2eXk2N2p0Znd0ZHBnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif
-" width="220"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220"/>
 </p>
 ---
 
