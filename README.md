@@ -14,7 +14,6 @@
     </td>
   </tr>
 </table>
----
 
 ### 🧩 About me
 
@@ -22,7 +21,17 @@ I’m a **Junior Full Stack Developer oriented to Backend**, passionate about bu
 
 My main focus is on **RESTful APIs**, authentication, role-based access, payments integration and database design.
 
-I enjoy working on real-world problems, applying good practices and understanding _why_ things work, not just _how_.
+## I enjoy working on real-world problems, applying good practices and understanding _why_ things work, not just _how_.
+
+🧩 Sobre mí
+
+Soy Desarrolladora Full Stack Junior con orientación en Backend, apasionada por la creación de APIs sólidas, lógica de negocio y arquitecturas escalables.
+
+Mi foco principal está en el desarrollo de APIs REST, autenticación y autorización, manejo de roles, integración de pagos y diseño de bases de datos.
+
+## Disfruto trabajar en problemas reales, aplicar buenas prácticas de desarrollo y comprender el por qué de las soluciones, no solo el cómo.
+
+---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -41,6 +50,7 @@ I enjoy working on real-world problems, applying good practices and understandin
   <img src="./assets/postman.png" width="56"/>
   <img src="./assets/css.png" width="56"/>
   <img src="./assets/html.png" width="56"/>
+  <img src="./assets/jwt.png" width="56"/>
 </p>
 
 ### 🚀 Featured Projects
@@ -54,13 +64,11 @@ Authentication, roles, products, orders and payments-ready structure.
 
 ---
 
-### 🌱 Currently learning
-
-- Advanced NestJS patterns
-- Clean Architecture
-- Testing & API documentation (Swagger)
-
----
+<p align="center">
+  <img src="./assets/star-shine.gif" width="70" />
+  <img src="./assets/star-shine.gif" width="110" />
+  <img src="./assets/star-shine.gif" width="70" />
+</p>
 
 ### 💌 Let's connect
 
