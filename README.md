@@ -1,10 +1,17 @@
-<h1 align="center">Hi! I'm Sofía 👋</h1>
-<p align="center">
-  Full Stack Developer · Backend Oriented
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/MishManners%20Room%20Animation.gif" width="220"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+      <h1>Hi! I'm Sofía 👋</h1>
+      <p>
+        Full Stack Developer<br/>
+        <strong>Backend Oriented</strong>
+      </p>
+    </td>
+    <td align="center">
+      <img src="./assets/my-image.png" width="200"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🧩 About me
@@ -13,12 +20,14 @@ I’m a **Junior Full Stack Developer oriented to Backend**, passionate about bu
 
 My main focus is on **RESTful APIs**, authentication, role-based access, payments integration and database design.
 
-I enjoy working on real-world problems, applying good practices and understanding *why* things work, not just *how*.
+I enjoy working on real-world problems, applying good practices and understanding _why_ things work, not just _how_.
 
 ---
+
 ### 🛠️ Tech Stack
 
 #### Backend
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48"/>
@@ -27,6 +36,7 @@ I enjoy working on real-world problems, applying good practices and understandin
 </p>
 
 #### Frontend
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
@@ -34,6 +44,7 @@ I enjoy working on real-world problems, applying good practices and understandin
 </p>
 
 #### Tools
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
@@ -53,6 +64,7 @@ Authentication, roles, products, orders and payments-ready structure.
 ---
 
 ### 🌱 Currently learning
+
 - Advanced NestJS patterns
 - Clean Architecture
 - Testing & API documentation (Swagger)
