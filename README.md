@@ -1,18 +1,19 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 28px; flex-wrap: wrap;">
-  <div>
-    <h1 style="font-size: 42px; margin-bottom: 8px;">
-      Hi! I'm Sofía 👋
-    </h1>
-    <p style="font-size: 20px; margin-top: 0;">
-      Full Stack Developer<br/>
-      <strong>Backend Oriented</strong>
-    </p>
-  </div>
-
-  <div>
-    <img src="./assets/my-image.png" width="200"/>
-  </div>
-</div>
+<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding-right: 28px;">
+      <h1 style="font-size: 42px; margin-bottom: 8px;">
+        Hi! I'm Sofía 👋
+      </h1>
+      <p style="font-size: 20px; margin-top: 0;">
+        Full Stack Developer<br/>
+        <strong>Backend Oriented</strong>
+      </p>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="./assets/my-image.png" width="200"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🧩 About me
