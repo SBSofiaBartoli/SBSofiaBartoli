@@ -17,7 +17,7 @@
 
 ### 🧩 About me
 
-I’m a **Junior Full Stack Developer oriented to Backend**, passionate about building solid APIs, business logic and scalable architectures.
+I’m a **Full Stack Developer oriented to Backend**, passionate about building solid APIs, business logic and scalable architectures.
 
 My main focus is on **RESTful APIs**, authentication, role-based access, payments integration and database design.
 
@@ -25,7 +25,7 @@ I enjoy working on real-world problems, applying good practices and understandin
 
 ### 🧩 Sobre mí
 
-Soy Desarrolladora Full Stack Junior con orientación en Backend, apasionada por la creación de APIs sólidas, lógica de negocio y arquitecturas escalables.
+Soy Desarrolladora Full Stack con orientación en Backend, apasionada por la creación de APIs sólidas, lógica de negocio y arquitecturas escalables.
 
 Mi foco principal está en el desarrollo de APIs REST, autenticación y autorización, manejo de roles, integración de pagos y diseño de bases de datos.
 
